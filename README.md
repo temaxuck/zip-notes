@@ -4,6 +4,8 @@
 >
 > This is not a library or a program for managing ZIP archives
 
+See [notes](NOTES.md).
+
 ## Story
 
 I am not satisfied with the current set of tools that are available for
